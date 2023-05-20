@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9630c747-3dbe-4fb3-b7f9-57979d959f0e" name="Changes" comment="fixed">
+      <change beforePath="$PROJECT_DIR$/student-service/src/main/java/com/student/StudentManagement/controller/CarriereController.java" beforeDir="false" afterPath="$PROJECT_DIR$/student-service/src/main/java/com/student/StudentManagement/controller/CarriereController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student-service/src/main/java/com/student/StudentManagement/controller/FiliereController.java" beforeDir="false" afterPath="$PROJECT_DIR$/student-service/src/main/java/com/student/StudentManagement/controller/FiliereController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student-service/src/main/java/com/student/StudentManagement/controller/ModuleFController.java" beforeDir="false" afterPath="$PROJECT_DIR$/student-service/src/main/java/com/student/StudentManagement/controller/ModuleFController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student-service/src/main/java/com/student/StudentManagement/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/student-service/src/main/java/com/student/StudentManagement/controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student-service/src/main/java/com/student/StudentManagement/dto/RespenseFiliereDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/student-service/src/main/java/com/student/StudentManagement/dto/RespenseFiliereDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student-service/src/main/java/com/student/StudentManagement/services/FiliereServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/student-service/src/main/java/com/student/StudentManagement/services/FiliereServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PdlLsFXtoR40g6FM14eBnNycJF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/MON PC/Desktop/JEE/Cours/Mockito/TestMokito",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "show.migrate.to.gradle.popup": "false",
+    "spring.configuration.checksum": "106212df3ac3eacd510f1e92e69f3b13",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MON PC\Desktop\Faculty-Management-Microservices" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceNoteApplication">
+    <configuration name="DiscovryServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="discovryServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.discovryServer.discovryServer.DiscovryServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceInscriptionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service-inscription" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.radouaneoubakhane.serviceinscription.ServiceInscriptionApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceNoteApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service-note" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.miraouy.ServiceNoteApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentManagementApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="StudentManagement (2)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.student.StudentManagement.StudentManagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentManagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="StudentManagement (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.student.StudentManagement.StudentManagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="fixed">
+      <created>1683738328126</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683738328127</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9630c747-3dbe-4fb3-b7f9-57979d959f0e" name="Changes" comment="fixed" />
+      <created>1683794793603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683794793603</updated>
+      <workItem from="1683794799956" duration="1478000" />
+      <workItem from="1683842831702" duration="805000" />
+      <workItem from="1683881957135" duration="3271000" />
+      <workItem from="1683975854609" duration="7006000" />
+      <workItem from="1684019716096" duration="1883000" />
+      <workItem from="1684065130316" duration="42000" />
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed" />
+  </component>
+</project>
